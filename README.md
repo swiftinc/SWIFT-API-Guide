@@ -11,5 +11,5 @@ SWIFT API Guide is the written by the SWIFT API teams to set expectations for de
 * [HTTP Verbs](docs/http-verbs.md)
 * [HTTP Headers](docs/http-headers.md)
 * [Errors](docs/errors.md)
-* [API Specifications](docs/api-specifications.md)
+* [API Specifications](docs/api-specification.md)
 * [API Testing](docs/api-testing.md)
